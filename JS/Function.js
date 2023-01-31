@@ -57,7 +57,6 @@ document.getElementById('boton_conocimientos').addEventListener('mouseout', func
 
 function porcentaje_barra (porsentaje){ // calcula cuanto se tiene que mover la barra segun el porcentaje que se desea ocupar
     let resultado =(255 - (255 * porsentaje) / 100);
-    console.log(resultado)
     return resultado;
 }
 

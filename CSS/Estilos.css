@@ -81,18 +81,6 @@ a{
     color: black;
     padding: 10px 5px 10px 5px;
 }
-/*a:hover { ver de hacer con js
-    background:#1d70b8;
-    color: white;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-}*/
-/*.no_seleccionado{
-    text-decoration: none;
-    display: block;
-    color: black;
-    padding: 10px 5px 10px 5px;
-}*/
 
 .cuerpo {
     width: 50%;
